@@ -48,5 +48,14 @@
 h1{
     text-align: center;
     color:black;
-    
+
+}
+
+.userText{
+
+    text-align: right;
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 25px;
+    color: black;
 }
